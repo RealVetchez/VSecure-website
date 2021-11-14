@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/VSecure-website/static/css/main.216b14f6.chunk.css",
+    "main.js": "/VSecure-website/static/js/main.fcc4f8e3.chunk.js",
+    "main.js.map": "/VSecure-website/static/js/main.fcc4f8e3.chunk.js.map",
+    "runtime-main.js": "/VSecure-website/static/js/runtime-main.2350bc6e.js",
+    "runtime-main.js.map": "/VSecure-website/static/js/runtime-main.2350bc6e.js.map",
+    "static/js/2.c27f1394.chunk.js": "/VSecure-website/static/js/2.c27f1394.chunk.js",
+    "static/js/2.c27f1394.chunk.js.map": "/VSecure-website/static/js/2.c27f1394.chunk.js.map",
+    "index.html": "/VSecure-website/index.html",
+    "static/css/main.216b14f6.chunk.css.map": "/VSecure-website/static/css/main.216b14f6.chunk.css.map",
+    "static/js/2.c27f1394.chunk.js.LICENSE.txt": "/VSecure-website/static/js/2.c27f1394.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/VSecure-website/static/media/image-3.8d55093d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2350bc6e.js",
+    "static/js/2.c27f1394.chunk.js",
+    "static/css/main.216b14f6.chunk.css",
+    "static/js/main.fcc4f8e3.chunk.js"
+  ]
+}
