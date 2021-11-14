@@ -16,14 +16,14 @@ function Home() {
 			src: 'images/image-7.jpg',
 			text: 'Meet the team',
 			label: 'People',
-			path: '/services',
+			path: '/employees',
 		},
 		{
 			id: 3,
 			src: 'images/image-2.jpg',
 			text: 'Learn about our goals and what drives us',
 			label: 'About',
-			path: '/services',
+			path: '/about',
 		},
 	];
 	return (
